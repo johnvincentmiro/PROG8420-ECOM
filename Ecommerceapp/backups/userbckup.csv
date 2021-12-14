@@ -1,0 +1,5 @@
+"USER_ID","LOGIN","CRYPT_PASS","ACCESS_COUNT","ACS"
+"1","admin","tecsg","147","A"
+"2","khris@gmail.com","87654","12","U"
+"3","krsk@gmail.com","876543","1","U"
+"4","john@gmail.com","boctg876","1","U"
